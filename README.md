@@ -1,6 +1,6 @@
 # Integrantes
 
-- Samuel David Henández Narváez
+- Samuel David Hernández Narváez
 - Jorge Samuel Morelo Martinez
 
 ## Proyecto Fiados
